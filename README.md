@@ -1,13 +1,13 @@
 <img src="https://github.com/tamyrisroncelli/tamyrisroncelli/blob/main/background.png" style="max-width:100%;">
 
- ✨ _Olá sou a Tamyris Roncelli_ ✨ 
+ ✨ #Olá sou a Tamyris Roncelli ✨ 
  
  Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.
  Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.
 
 
-- 🔭 Trabalho na Universidade do Vale do Itajaí - UNIVALI
-- 🌱 Estou aprendendo sobre JavaScript, HTML5, CSS3, Java e Genexus 16.
+- 🔭 Trabalho atualmente na Universidade do Vale do Itajaí - UNIVALI
+- 🌱 Estou aprendendo **JavaScript, HTML5, CSS3, Java e Genexus 16
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
