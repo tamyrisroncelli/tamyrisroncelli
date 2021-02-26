@@ -2,8 +2,8 @@
 
  <h1 align="center"> Olá sou a Tamyris Roncelli </h1>
  
-<h3 align="center"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas na <a href="https://github.com/tamyrisroncelli">Universidade do Vale do Itajaí - UNIVALI.</a></h3><br>
-<h3 align="center"> Sou técnica em informática com ênfase em desenvolvimento de software pela <a href="https://github.com/tamyrisroncelli">ETEC São Paulo - Basílides de Godoy.</a></h3>
+<h3 align="center"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas na <a href="https://www.univali.br/Paginas/default.aspx">Universidade do Vale do Itajaí - UNIVALI.</a></h3><br>
+<h3 align="center"> Sou técnica em desenvolvimento de sistemas pela <a href="https://basilides.com.br">ETEC São Paulo - Basílides de Godoy.</a></h3>
 
 
 - 🔭  Trabalho atualmente na Universidade do Vale do Itajaí - UNIVALI
