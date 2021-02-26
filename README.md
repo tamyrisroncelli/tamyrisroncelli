@@ -2,8 +2,8 @@
 
  <h1 align="center"> Olá sou a Tamyris Roncelli </h1>
  
-<h3 align="center"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.
- Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.</h3><br>
+<h3 align="center"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.</h3><br>
+<h3 align="center"> Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.</h3><br>
 
 
 - 🔭 Trabalho atualmente na Universidade do Vale do Itajaí - UNIVALI
