@@ -1,4 +1,4 @@
-<img src="https://github.com/tamyrisroncelli/tamyrisroncelli/blob/main/background2.png" style="max-width:100%;">
+<img src="https://github.com/tamyrisroncelli/tamyrisroncelli/blob/main/background3.png" style="max-width:100%;">
 
  <h1 align="center"> Olá sou a Tamyris Roncelli </h1>
  
