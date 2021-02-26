@@ -1,9 +1,9 @@
 <img src="https://github.com/tamyrisroncelli/tamyrisroncelli/blob/main/background.png" style="max-width:100%;">
 
- <p align="center"><h1> Olá sou a Tamyris Roncelli </h1></p>
+ <h1 align="center"> Olá sou a Tamyris Roncelli </h1>
  
- Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.
- Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.
+<h2 align="justify"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.
+ Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.</h2>
 
 
 - 🔭 Trabalho atualmente na Universidade do Vale do Itajaí - UNIVALI
