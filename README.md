@@ -5,7 +5,7 @@
 <h3 align="center"> Estou concluindo a graduação em tecnologia de análise e desenvolvimento de sistemas pela UNIVALI.
  Sou técnica em informática com ênfase em desenvolvimento de software pela ETEC São Paulo - Basílides de Godoy.</h3>
 
-
+<div border="1px">
 - 🔭 Trabalho atualmente na Universidade do Vale do Itajaí - UNIVALI
 - 🌱 Estou aprendendo **JavaScript, HTML5, CSS3, Java e Genexus 16
 <!-- 👯 I’m looking to collaborate on ...
@@ -15,3 +15,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
